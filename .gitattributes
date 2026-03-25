@@ -1,0 +1,5 @@
+khabar-full.tar.gz filter=lfs diff=lfs merge=lfs -text
+khabar-v2.tar.gz filter=lfs diff=lfs merge=lfs -text
+khabar-v3.tar.gz filter=lfs diff=lfs merge=lfs -text
+khabar-v4.tar.gz filter=lfs diff=lfs merge=lfs -text
+khabar-v5.tar.gz filter=lfs diff=lfs merge=lfs -text
